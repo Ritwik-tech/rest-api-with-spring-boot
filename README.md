@@ -9,8 +9,7 @@ Maven
 Instalation
 Step for installation:
 
-# Clone this project from gitlab
-git clone git@github.com:saptarga/spring-boot-rest-api.git
+
 
 # Clears the target directory and builds the project
 mvn clean install
